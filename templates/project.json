@@ -1,0 +1,10 @@
+{
+  "name": "My Web Project",
+  "description": "This is a description of my web project. It contains important features and functionality.",
+  "repository": "https://github.com/user/repository",  
+  "author": "John Doe",                            
+  "version": "1.0.0",                             
+  "lastUpdated": "2023-08-15",                     
+  "tags": ["web", "PHP", "dashboard"],             
+  "isActive": true                                 
+}
