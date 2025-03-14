@@ -594,3 +594,19 @@ Output: Array
 )
 
 Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => mcl_wp_romyk | GIT_REPO | CLEAN
+    [1] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => mcl_wp_romyk | GIT_REPO | CLEAN
+    [1] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
