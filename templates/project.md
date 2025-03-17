@@ -1,25 +1,61 @@
-- File name: project.md
+- **File Name**: [project_name].md
 
-- Project name : {the project name}
+- **Project Name**: [Project Name]
 
-- Rules of engagement:
-	- Files will mention the project name on the top
-	- Files will mention the file name on the top
-	- File name and project name should be kept all the time
-	- Block of code might be identified with a starting comment and end comment.
-	- Block identiers must be kept.
-	- Any Spelling or Grammatical mistake sould be adressed and corrected 
-	- You will develope the Tasks list and track the progress.
-	
-- Project data :
-	- {Random global variables}
-	
-- Project description : 
-	- {brief drescription of the project}
-	
-- Project Details & Goals: 
-	- {goals of the project}
-	
-- Tasks and sub tasks [marked with a 'x' if complete]:
-	- {Task one}
+- **Project Description**: 
+    - [Provide a brief description of the project, its purpose, and key features.]
+
+- **Rules of Engagement**:
+    - Files will mention the project name at the top.
+    - Files will mention the file name at the top.
+    - The file name and project name must always be present.
+    - Blocks of code may be identified with a starting comment and an ending comment.
+    - Block identifiers must be preserved.
+    - Any spelling or grammatical mistakes should be corrected.
+    - Tasks will be developed and tracked to monitor progress.
+    - File content should always be rendered with a copy/paste option.
+    - File content should always maintain a consistent formatting style.
+
+- **Project Data**:
+    - Project directory: [project_directory_name]
+
+- **Project Details & Goals**: 
+    - [Define the key objectives and functionalities of the project.]
+    - [Explain the expected interaction and automation involved.]
+    - [Specify any version control integration requirements.]
+    - [Outline security and privacy considerations.]
+    - [Mention any task or project tracking features required.]
+
+- **File Structure Overview**:
+    /[project_directory]/
+        ├── src/                      
+        │   ├── main.[ext]              
+        │   ├── utils/                 
+        │   ├── components/            
+        │   └── services/              
+        ├── public/                   
+        │   ├── index.html              
+        │   ├── styles/                 
+        │   └── assets/                 
+        ├── config/                    
+        │   ├── settings.json           
+        │   ├── environment.[ext]       
+        │   └── database.[ext]          
+        ├── tests/                      
+        ├── docs/                       
+        ├── README.md                   
+        ├── .gitignore                   
+        ├── package.json (if applicable) 
+        ├── requirements.txt (if applicable)
+        └── [additional project files] 
+
+- **Tasks and Sub-Tasks** [marked with an 'x' if complete]:
+    - [ ] Research required technologies and frameworks
+    - [ ] Develop the initial project structure
+    - [ ] Implement core functionalities
+    - [ ] Develop an interactive UI (if applicable)
+    - [ ] Integrate with version control (if applicable)
+    - [ ] Ensure secure data handling and user settings
+    - [ ] Test project functionality and compatibility
+    - [ ] Finalize and prepare for deployment
 

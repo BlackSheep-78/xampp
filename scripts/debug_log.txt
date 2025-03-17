@@ -562,3 +562,432 @@ Output: Array
 
 Return Code: 0
 Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | ADD,COMMIT,PULL
+    [2] => chat_gtp_chrome_extension | GIT_REPO | ADD
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | PULL
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | CLEAN
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | COMMIT,PULL
+    [27] => translate | GIT_REPO | PULL
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | PUSH,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | ADD,COMMIT,PULL
+    [2] => chat_gtp_chrome_extension | GIT_REPO | ADD
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | PULL
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | PULL
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | COMMIT,PULL
+    [27] => translate | GIT_REPO | PULL
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | ADD,COMMIT,PULL
+    [2] => chat_gtp_chrome_extension | GIT_REPO | ADD
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | PULL
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | ADD,COMMIT,PULL
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | COMMIT,PULL
+    [27] => translate | GIT_REPO | PULL
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | ADD,COMMIT,PULL
+    [2] => chat_gtp_chrome_extension | GIT_REPO | ADD
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | PULL
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | ADD,COMMIT,PULL
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | COMMIT,PULL
+    [27] => translate | GIT_REPO | PULL
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | CLEAN
+    [2] => chat_gtp_chrome_extension | GIT_REPO | CLEAN
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | PULL
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | ADD,COMMIT,PULL
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | COMMIT,PULL
+    [27] => translate | GIT_REPO | PULL
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | CLEAN
+    [2] => chat_gtp_chrome_extension | GIT_REPO | CLEAN
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | CLEAN
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | PUSH,PULL
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | COMMIT,PULL
+    [27] => translate | GIT_REPO | PULL
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | CLEAN
+    [2] => chat_gtp_chrome_extension | GIT_REPO | CLEAN
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | CLEAN
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | CLEAN
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | COMMIT,PULL
+    [27] => translate | GIT_REPO | PULL
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | CLEAN
+    [2] => chat_gtp_chrome_extension | GIT_REPO | CLEAN
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | CLEAN
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | CLEAN
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | COMMIT,PULL
+    [27] => translate | GIT_REPO | PULL
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | CLEAN
+    [2] => chat_gtp_chrome_extension | GIT_REPO | CLEAN
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | CLEAN
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | CLEAN
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | CLEAN
+    [27] => translate | GIT_REPO | CLEAN
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0
+Command: "C:\Program Files\Git\bin\bash.exe" "C:\xampp\htdocs\xampp\scripts/scan_git.sh" "C:\xampp\htdocs/"
+Output: Array
+(
+    [0] => ansible-project | GIT_REPO | CLEAN
+    [1] => Babylon_1 | GIT_REPO | CLEAN
+    [2] => chat_gtp_chrome_extension | GIT_REPO | CLEAN
+    [3] => fhl_code_et_securite | GIT_REPO | CLEAN
+    [4] => fhl_wireshark_listening | GIT_REPO | CLEAN
+    [5] => filezilla-stuff | NOT_GIT_REPO
+    [6] => go_hello | NOT_GIT_REPO
+    [7] => maxtrix.net | GIT_REPO | CLEAN
+    [8] => mcl-bootstrap-01 | GIT_REPO | CLEAN
+    [9] => mcl-interiors | GIT_REPO | CLEAN
+    [10] => mcl-Moschino | GIT_REPO | CLEAN
+    [11] => mcl-ressources--jQuery | GIT_REPO | CLEAN
+    [12] => mcl-retrospect | GIT_REPO | CLEAN
+    [13] => mcl-www.idkids.fr | GIT_REPO | CLEAN
+    [14] => mcl_wp_romyk | GIT_REPO | CLEAN
+    [15] => mcl_wp_wrong_hole | GIT_REPO | CLEAN
+    [16] => project_seo | NOT_GIT_REPO
+    [17] => projet-Kercode2024 | GIT_REPO | CLEAN
+    [18] => ProjetPoisson | GIT_REPO | CLEAN
+    [19] => ssl | NOT_GIT_REPO
+    [20] => tarte | NOT_GIT_REPO
+    [21] => tb-Algo-JS-Soutenance | GIT_REPO | CLEAN
+    [22] => tb-Algo-partie-2 | GIT_REPO | CLEAN
+    [23] => tb-Algo-partie-3 | GIT_REPO | CLEAN
+    [24] => tb-CDA5_JavaScript | GIT_REPO | CLEAN
+    [25] => TestSass | NOT_GIT_REPO
+    [26] => todo | GIT_REPO | CLEAN
+    [27] => translate | GIT_REPO | CLEAN
+    [28] => um-mvc-tp1 | NOT_GIT_REPO
+    [29] => um-mvc-tp2 | NOT_GIT_REPO
+    [30] => um-php_ajax | NOT_GIT_REPO
+    [31] => um-php_forms | NOT_GIT_REPO
+    [32] => um-projet-mvc | GIT_REPO | PUSH,PULL
+    [33] => WebDev_Greta2024 | GIT_REPO | COMMIT,PULL
+    [34] => wordpress | NOT_GIT_REPO
+    [35] => wordpress-6.7.2 | NOT_GIT_REPO
+    [36] => xampp | GIT_REPO | COMMIT,PULL
+)
+
+Return Code: 0

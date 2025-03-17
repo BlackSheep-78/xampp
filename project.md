@@ -90,9 +90,9 @@
             - [x] Git repository status.
             - [x] A link to the project’s main page (index.php or index.html).
     - [x] Style the dashboard page with Bootstrap to make it lightweight and visually appealing.
-    - [ ] Interface area for future features:
-        - [ ] Create a visually distinct area on the dashboard dedicated to future functionalities.
-        - [ ] Add a "Scan Git Repositories" button in this area.
-        - [ ] Implement JavaScript logic to trigger Git repository status scanning via AJAX.
-        - [ ] Display visual feedback during scanning.
-        - [ ] Dynamically update the dashboard with the latest Git repository statuses upon completion.
+    - [x] Interface area for future features:
+        - [x] Create a visually distinct area on the dashboard dedicated to future functionalities.
+        - [x] Add a "Scan Git Repositories" button in this area.
+        - [x] Implement JavaScript logic to trigger Git repository status scanning via AJAX.
+        - [x] Display visual feedback during scanning.
+        - [x] Dynamically update the dashboard with the latest Git repository statuses upon completion.
