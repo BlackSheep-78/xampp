@@ -29,14 +29,14 @@ $gitBashPath = '"C:\Program Files\Git\bin\bash.exe"';
 $command = $gitBashPath . " " . escapeshellarg($bashScript) . " " . escapeshellarg($rootDir);
 
 // Log command for debugging
-file_put_contents(__DIR__ . '/debug_log.txt', "Command: " . $command . PHP_EOL, FILE_APPEND);
+file_put_contents(__DIR__ . '/debug_log.log', "Command: " . $command . PHP_EOL, FILE_APPEND);
 
 // Execute the Bash script
 exec($command, $output, $returnCode);
 
 // Log the output for debugging
-file_put_contents(__DIR__ . '/debug_log.txt', "Output: " . print_r($output, true) . PHP_EOL, FILE_APPEND);
-file_put_contents(__DIR__ . '/debug_log.txt', "Return Code: " . $returnCode . PHP_EOL, FILE_APPEND);
+file_put_contents(__DIR__ . '/debug_log.log', "Output: " . print_r($output, true) . PHP_EOL, FILE_APPEND);
+file_put_contents(__DIR__ . '/debug_log.log', "Return Code: " . $returnCode . PHP_EOL, FILE_APPEND);
 
 // If execution failed, return error
 if ($returnCode !== 0) {
